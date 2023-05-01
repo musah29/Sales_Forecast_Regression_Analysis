@@ -10,3 +10,8 @@ Time series forecasting models, such as ARIMA, Linear regression and machine lea
 The results obtained from the forecasting models will be analyzed, and insights gained from the analysis will be used to make informed business decisions. The insights could include identifying which products have high demand at different times of the year, which stores perform better than others, and identifying any trends in sales data that could inform marketing and inventory decisions.
 
 Overall, the project aims to build a reliable time series forecasting model that can help Favorita optimize their sales strategies and improve their bottom line.
+
+LINK TO MEDIUM ARTICLE:
+https://medium.com/@musahibrahim29/time-series-forecast-favorita-stores-analysis-8e1de48b894f
+LINK TO POWER BI DASHBOARD:
+https://app.powerbi.com/groups/me/reports/b1bb6ecc-e404-40ba-b537-f4a82cab0d47/ReportSection
